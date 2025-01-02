@@ -24,6 +24,14 @@ h1, h2, h3, a, p, span {
   margin: 0px;
 }
 
+h1 {
+  font-size: 20px;
+}
+
+p {
+  font-size: 11px;
+}
+
 strong {
   font-size: 16px;
   transition: all 0.1s ease-in;
