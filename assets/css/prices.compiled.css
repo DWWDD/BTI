@@ -23,7 +23,7 @@ table {
   width: 50%;
   font-size: 12px;
   color: #000;
-  text-align: center;
+  text-align: start;
   border-collapse: collapse;
   box-sizing: border-box;
   cursor: default;
